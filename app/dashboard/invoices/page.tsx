@@ -1,4 +1,4 @@
-function page(props) {
+function page() {
   return <p>Invoices Page</p>;
 }
 
